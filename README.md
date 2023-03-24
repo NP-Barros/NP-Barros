@@ -1,47 +1,26 @@
-
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NP-Barros&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NP-Barros&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div>
   
   <h1 align="center">
     Oi Tudo bem? Fico Feliz que tenha tirado um tempo para me conhecer! Eu sou o 
     <a href="https://www.linkedin.com/in/vitor-barros-833365198">Vitor Barros 😃️</a>
-  </h1>
-  
+ 
+  </h1>  
   <p align="center">
-- 🔭 Hoje trabalho em um Laboratório Maker
-- 🌱 Estou terminando a Faculdade de Análise e Desensvolvimento de Sistemas e Estudando Django e TDD.
-- 😄 Pronouns: ele/dele
-    
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+- 🔭 Hoje trabalho em um Laboratório Maker<br>
+- 🌱 Estou terminando a Faculdade de Análise e Desensvolvimento de Sistemas e Estudando Django e TDD<br>
+- 😄 Pronouns: ele/dele<br>  
   </p>
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
-  
 </div>
 
 <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NP-Barros&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NP-Barros&theme=dracula&hide_border=false&&layout=compact"/>
+  
   </a>
+  
+  </a>
+  
 </div>
 
 <div align="center" valign="top"><br>
